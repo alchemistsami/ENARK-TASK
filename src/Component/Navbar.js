@@ -9,7 +9,7 @@ function NavbarComp() {
     <Container >
       <Navbar.Brand>Header</Navbar.Brand>
       <div className='mr-10'>
-        <NavLink className={"ancr"} to="/" >Home</NavLink>
+        <NavLink className={"ancr"} to="/ENARK-TASK/" >Home</NavLink>
         <NavLink className={"ancr"} to="/component2">SecondComponent</NavLink>
         <NavLink className={"ancr"} to="/component3" > ThirdComponent </NavLink>
       </div>
