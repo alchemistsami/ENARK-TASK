@@ -27,7 +27,7 @@ function App() {
 
           <div>
             <Routes>
-              <Route path='/' element={<Component1 />} />
+              <Route path='/ENARK-TASK/' element={<Component1 />} />
               <Route path='/component2' element={<Component2 />} />
               <Route path='/component3' element={<Component3 />} />
             </Routes>
