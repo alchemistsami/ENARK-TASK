@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ENARK-TASK/static/css/main.4eaf439f.css",
+    "main.js": "/ENARK-TASK/static/js/main.e050de87.js",
+    "static/js/787.20d12a68.chunk.js": "/ENARK-TASK/static/js/787.20d12a68.chunk.js",
+    "index.html": "/ENARK-TASK/index.html",
+    "main.4eaf439f.css.map": "/ENARK-TASK/static/css/main.4eaf439f.css.map",
+    "main.e050de87.js.map": "/ENARK-TASK/static/js/main.e050de87.js.map",
+    "787.20d12a68.chunk.js.map": "/ENARK-TASK/static/js/787.20d12a68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eaf439f.css",
+    "static/js/main.e050de87.js"
+  ]
+}
