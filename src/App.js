@@ -40,7 +40,7 @@ function App() {
         position="bottom-center"
         autoClose={false} 
         limit={3}
-        newestOnTop={true}
+        newestOnTop={false}
         icon={false}
       />
 
